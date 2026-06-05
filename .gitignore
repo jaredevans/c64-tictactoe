@@ -1,0 +1,5 @@
+*.prg
+*.o
+*.s
+test_winner
+.DS_Store
